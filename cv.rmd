@@ -62,9 +62,9 @@ CV %>% print_contact_info()
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-laptop"></i> **Programming**: R, SQL, Python, HTML, CSS, Git
-<!--
-- <i class="fa fa-flask"></i> **Laboratory**: DOE, Flow Testing, Rheology, UV/VIS spectroscopy, basic lab equipment (pH, separation methods, condensers) -->
+- <i class="fa fa-laptop"></i> **Programming**: R (RStudio, R Markdown, Shiny), SQL, Python, HTML, CSS, Git
+
+- <i class="fa fa-toolbox"></i> **Tools**: Jira, Concluence, JMP
 - <i class="fa fa-lightbulb-o"></i> **Other**: data analysis, data visualization, statistics, experimental design, science writing
 
 Online Courses
